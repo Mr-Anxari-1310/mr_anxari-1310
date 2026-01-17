@@ -1,5 +1,9 @@
-<h2>Hi 👋, I’m Ansari Sumaid Akhter Habiburrahman</h2>
-<br><br>🎓 Passionate Computer Engineering student<br><br>💻 Aspiring Software Engineer<br><br>🚀 Love coding and building real-world projects<br><br>📚 Always learning and exploring new technologies<br><br>🔧 <h3>🔧 Currently focused on:</h3>
+<h2>Hi 👋, I’m Ansari Sumaid Akhter Habiburrahman</h2><br>
+<br>🎓 Passionate Computer Engineering student<br>
+<br>💻 Aspiring Software Engineer<br>
+<br>🚀 Love coding and building real-world projects<br>
+<br>📚 Always learning and exploring new technologies<br><br>
+<h3>🔧 Currently focused on:</h3>
 <ul>
   <li>Java</li>
   <li>Data Structures &amp; Algorithms (DSA)</li>

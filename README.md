@@ -1,5 +1,13 @@
 <h2>Hi 👋, I’m Ansari Sumaid Akhter Habiburrahman</h2>
-<br><br>🎓 Passionate Computer Engineering student<br><br>💻 Aspiring Software Engineer<br><br>🚀 Love coding and building real-world projects<br><br>📚 Always learning and exploring new technologies<br><br>🔧 Currently focused on:<br><br>Java<br><br>Data Structures & Algorithms (DSA)<br><br>Web Development<br><br>MERN Stack Development<br><br>📫 Reach me at : co.eng.sumaid@gmail.com
+<br><br>🎓 Passionate Computer Engineering student<br><br>💻 Aspiring Software Engineer<br><br>🚀 Love coding and building real-world projects<br><br>📚 Always learning and exploring new technologies<br><br>🔧 <h3>🔧 Currently focused on:</h3>
+<ul>
+  <li>Java</li>
+  <li>Data Structures &amp; Algorithms (DSA)</li>
+  <li>Web Development</li>
+  <li>MERN Stack Development</li>
+</ul>
+<br>
+📫 Reach me at : co.eng.sumaid@gmail.com
 
 
 ## 🌐 Socials:
